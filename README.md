@@ -1,6 +1,8 @@
 <img align='center' src="./assets/you.png" width="100%" border="1px">
  <br />
  
+ <p align="center"> <img src="https://komarev.com/ghpvc/?username=HimanshuPandey2002" alt="HimanshuPandey2002" /> </p>
+
 #### Here is what I'm currently working on
 
 - 💬 Ask me about ...Nothing, I'm too lazy to answer 😅
@@ -24,6 +26,7 @@
 
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 
+## ⚡ CONNECT WITH ME
 
 ## ⚡ GITHUB STATS
 
