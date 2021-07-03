@@ -21,10 +21,10 @@
 
 <br />
 <p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=HimanshuPandey2002&show-icons&theme=dracula&line_height=27" />
-<img width="49%" src= "https://github-readme-streak-stats.herokuapp.com/?user=HimanshuPandey2002&hide_border=true&theme=dracula&line_height=27" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=HimanshuPandey2002&show-icons&theme=dracula&line_height=27" />
+<img width="100%" src= "https://github-readme-streak-stats.herokuapp.com/?user=HimanshuPandey2002&hide_border=true&theme=dracula&line_height=27" />
 
 <p />
 <p align="center" >
- <img width="50%"  src="https://github-readme-stats.vercel.app/api/top-langs?username=HimanshuPandey2002&shows_icons=true&locale=en&layout=compactbg_color=000&hide_border=2&title_color=2EDD9&theme=dracula&line_height=27"alt="HimanshuPandey2002" />
+ <img width="100%"  src="https://github-readme-stats.vercel.app/api/top-langs?username=HimanshuPandey2002&shows_icons=true&locale=en&layout=compactbg_color=000&hide_border=2&title_color=2EDD9&theme=dracula&line_height=27"alt="HimanshuPandey2002" />
 </p>
