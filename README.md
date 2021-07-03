@@ -20,11 +20,11 @@
 <br />
 
 <p align="center">
-<img width="60%" src="https://github-readme-stats.vercel.app/api?username=HimanshuPandey2002&show-icons&layout=compacttheme=dracula&" />
+<img width="60%" src="https://github-readme-stats.vercel.app/api?username=HimanshuPandey2002&show-icons&theme=dracula&" />
 <p />
-<p align="center">
+<!-- <p align="center">
 <img width="60%" src= "https://github-readme-streak-stats.herokuapp.com/?user=HimanshuPandey2002&layout=compacttheme=dracula" />
-<p />
+<p /> -->
 <p align="center" >
  <img width="60%"  src="https://github-readme-stats.vercel.app/api/top-langs?username=HimanshuPandey2002&layout=compactshows_icons=true&locale=en&layout=compact&theme=dracula&border=10"alt="HimanshuPandey2002" />
 </p>
