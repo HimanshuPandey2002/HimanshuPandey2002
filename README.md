@@ -1,5 +1,3 @@
-# Hi 👋 there
-
 <img align='center' src="./assets/you.png" width="100%">
  <br />
  
