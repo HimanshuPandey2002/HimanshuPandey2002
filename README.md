@@ -22,6 +22,13 @@ d<img align='center' src="./assets/you.png" width="100%" border="1px">
 <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
 [![Expressjs Badge](https://img.shields.io/badge/-expressjs-CCCC00?style=for-the-badge&labelColor=black&logo=node.js&logoColor=CCCC00)](#)
 
+<div align="center">
+    <img src="https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc">
+    <img src="https://img.shields.io/badge/-Redux-007acc?style=for-the-badge&labelColor=black&logo=Redux&logoColor=007acc">
+    <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white">
+    <img src="https://img.shields.io/badge/-expressjs-CCCC00?style=for-the-badge&labelColor=black&logo=node.js&logoColor=CCCC00">
+</div>
+
 ## ⚡ TOOLS I USE
 
 <div align="center">
