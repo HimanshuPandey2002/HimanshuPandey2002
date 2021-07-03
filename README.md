@@ -17,6 +17,7 @@
 
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 
+<img src="https://img.shields.io/static/v1?label=REACT.JS&style=for-the-badge&message=REACT.JS&color=blue">
 <br />
 
 <p align="center">
