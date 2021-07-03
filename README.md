@@ -21,7 +21,9 @@
 
 <br />
 <p align="center">
-<img width="60%" align='center' src="https://github-readme-stats.vercel.app/api?username=HimanshuPandey2002&show-icons&theme=dracula&" /><br />
+<img width="60%" align='center' src="https://github-readme-stats.vercel.app/api?username=HimanshuPandey2002&show-icons&theme=dracula&" />
+<p />
+
 <img width="60%"align='center' src= "https://github-readme-streak-stats.herokuapp.com/?user=HimanshuPandey2002&theme=dracula" />
 
 <p />
