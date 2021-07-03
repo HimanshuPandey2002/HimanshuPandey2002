@@ -1,4 +1,4 @@
-<img align='center' src="./assets/you.png" width="100%">
+<img align='center' src="./assets/you.png" width="130%">
  <br />
  
 #### Here is what I'm currently working on
