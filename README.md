@@ -22,7 +22,7 @@
 <br />
 <p align="center">
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=HimanshuPandey2002&show-icons&hide_border=true&theme=dracula&line_height=27" />
-<img width="49%" src= "https://github-readme-streak-stats.herokuapp.com/?user=HimanshuPandey2002&theme=dracula&line_height=27" />
+<img width="49%" src= "https://github-readme-streak-stats.herokuapp.com/?user=HimanshuPandey2002&hide_border=true&theme=dracula&line_height=27" />
 
 <p />
 <p align="center" >
