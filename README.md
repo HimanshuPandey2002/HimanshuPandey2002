@@ -20,11 +20,12 @@
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 
 <br />
+
 <p align="center">
-<img width="60%"src="https://github-readme-stats.vercel.app/api?username=HimanshuPandey2002&show-icons&theme=dracula&" />
+<img width="60%" src="https://github-readme-stats.vercel.app/api?username=HimanshuPandey2002&show-icons&theme=dracula&" />
 <p />
 <p align="center">
-<img width="60%"align='center' src= "https://github-readme-streak-stats.herokuapp.com/?user=HimanshuPandey2002&theme=dracula" />
+<img width="60%" src= "https://github-readme-streak-stats.herokuapp.com/?user=HimanshuPandey2002&theme=dracula" />
 <p />
 <p align="center" >
  <img width="60%"  src="https://github-readme-stats.vercel.app/api/top-langs?username=HimanshuPandey2002&shows_icons=true&locale=en&layout=compact&theme=dracula&border=10"alt="HimanshuPandey2002" />
