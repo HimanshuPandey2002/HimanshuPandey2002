@@ -1,4 +1,4 @@
-d<img align='center' src="./assets/you.png" width="100%" border="1px">
+<img align='center' src="./assets/you.png" width="100%" border="1px">
 <br />
 
  <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=HimanshuPandey2002" alt="HimanshuPandey2002" /> </p> -->
@@ -11,9 +11,6 @@ d<img align='center' src="./assets/you.png" width="100%" border="1px">
 ![](https://activity-graph.herokuapp.com/graph?username=HimanshuPandey2002&theme=dracula)
 
 ## ⚡ TECH I HAVE WORKED/WORKING ON
-
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
-<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=for-the-badge&logo=webpack&logoColor=black" />
 
 <div align="center">
     <img src="https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB">
