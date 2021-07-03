@@ -23,7 +23,6 @@
 <p align="center">
 <img width="60%" src="https://github-readme-stats.vercel.app/api?username=HimanshuPandey2002&show-icons&theme=dracula" />
 <p />
-![](https://github-readme-stats.vercel.app/api?username=HimanshuPandey2002&show-icons&theme=dracula)
 <!-- <p align="center">
 <img width="60%" src= "https://github-readme-streak-stats.herokuapp.com/?user=HimanshuPandey2002&layout=compacttheme=dracula" />
 <p /> -->
