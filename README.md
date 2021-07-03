@@ -21,10 +21,10 @@
 
 <br />
 <p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ankit0225&show-icons&hide_border=true" />
-<img width="49%" src= "https://github-readme-streak-stats.herokuapp.com/?user=Ankit0225" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=HimanshuPandey2002&show-icons&hide_border=true" />
+<img width="49%" src= "https://github-readme-streak-stats.herokuapp.com/?user=HimanshuPandey2002" />
 
 <p />
 <p align="center" >
- <img width="50%"  src="https://github-readme-stats.vercel.app/api/top-langs?username=Ankit0225&shows_icons=true&locale=en&layout=compactbg_color=000&hide_border=2&title_color=2EDD9"alt="Ankit0225" />
+ <img width="50%"  src="https://github-readme-stats.vercel.app/api/top-langs?username=HimanshuPandey2002&shows_icons=true&locale=en&layout=compactbg_color=000&hide_border=2&title_color=2EDD9"alt="HimanshuPandey2002" />
 </p>
