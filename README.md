@@ -26,5 +26,5 @@
 <img width="60%" src= "https://github-readme-streak-stats.herokuapp.com/?user=HimanshuPandey2002&theme=dracula" />
 <p />
 <p align="center" >
- <img width="60%"  src="https://github-readme-stats.vercel.app/api/top-langs?username=HimanshuPandey2002&shows_icons=true&locale=en&layout=compact&theme=dracula&border=10"alt="HimanshuPandey2002" />
+ <img width="60%"  src="https://github-readme-stats.vercel.app/api/top-langs?username=HimanshuPandey2002&layout=compact&shows_icons=true&locale=en&layout=compact&theme=dracula&border=10"alt="HimanshuPandey2002" />
 </p>
