@@ -14,7 +14,6 @@
 ## Languages and Tools:
 
 <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/react.js%20-%2343853D.svg?&style=for-the-badge&logo=react.js&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=for-the-badge&logo=webpack&logoColor=black" />
 
@@ -22,8 +21,8 @@
 
 <br />
 <p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=HimanshuPandey2002&show-icons&hide_border=true" />
-<img width="49%" src= "https://github-readme-streak-stats.herokuapp.com/?user=HimanshuPandey2002" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=HimanshuPandey2002&show-icons&hide_border=true&theme=radical&line_height=27" />
+<img width="49%" src= "https://github-readme-streak-stats.herokuapp.com/?user=HimanshuPandey2002&theme=radical&line_height=27" />
 
 <p />
 <p align="center" >
